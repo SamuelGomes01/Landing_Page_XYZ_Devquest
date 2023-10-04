@@ -15,9 +15,9 @@ Antes de usar esta landing page, verifique se você possui os seguintes pré-req
 - Um navegador da web moderno que suporte HTML5 e CSS3.
 
 ## Visualização geral
-![Texto Alternativo](../Landing_Page_XYZ_Devquest/src/images/View%20padrão.gif)
-
+![View padrão-min](https://github.com/SamuelGomes01/Landing_Page_XYZ_Devquest/assets/124572740/694a056f-dd63-4930-b868-09a8a55758cc)
 
 ## Responsividade
-![Texto Alternativo](../Landing_Page_XYZ_Devquest/src/images/View%20responsiva.gif)
+![View responsiva-min](https://github.com/SamuelGomes01/Landing_Page_XYZ_Devquest/assets/124572740/5036e7eb-85d2-420c-ac26-95188b279877)
+
 
